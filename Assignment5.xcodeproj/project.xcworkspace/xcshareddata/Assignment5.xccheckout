@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>100FA410-7360-4B0D-A268-776CFD5CE969</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Assignment5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>982765F20DF7A57FD19116109A37EF4B5BD18CD0</key>
+		<string>https://github.com/uchicago-mobi/JiamingDong-MPCS51030-Winter-2015-Assignment-5.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Assignment5.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>982765F20DF7A57FD19116109A37EF4B5BD18CD0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uchicago-mobi/JiamingDong-MPCS51030-Winter-2015-Assignment-5.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>982765F20DF7A57FD19116109A37EF4B5BD18CD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>982765F20DF7A57FD19116109A37EF4B5BD18CD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JiamingDong-MPCS51030-Winter-2015-Assignment-5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
